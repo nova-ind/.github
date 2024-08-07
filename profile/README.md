@@ -1,7 +1,7 @@
 <h4 align="center"><img src="ATeOUcphqsfhAAAAAElFTkSuQmCC.png" width="90%"></h4>
 <h5 align="center">The people creating the web first operating system novaOS</h5>
 <p align="center">🔭 Stupid ideas on the horizon<br>
-🌱 this company is fairly new<br>
+🌱 we're new<br>
 📫 Contact Email: industries@novafurry.win<br>
 ⚡ Fun Fact: you can join us</p>
 <h3 align="center">nova industries Uses:</h3>
